@@ -17,7 +17,7 @@ theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme
 locale: euc-KR
 title: "Pr0ln's Blog"
-description: ""
+# description: ""
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://pr0ln.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
